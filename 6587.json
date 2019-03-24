@@ -1,0 +1,17 @@
+[
+  {
+    "Room": 1,
+    "Inhabitant": "duur",
+    "price": 500
+  },
+  {
+    "Room": 2,
+    "Inhabitant": "jerslim",
+    "price": 550
+  },
+  {
+    "Room": 3,
+    "Inhabitant": "hesthim",
+    "price": 500
+  }
+]
